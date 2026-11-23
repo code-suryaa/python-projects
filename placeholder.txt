@@ -1,8 +1,0 @@
-"Personal Finance Intelligence" — Beginner-friendly CLI Project
-
-python-projects/
-├── personal-finance-intelligence/
-│   ├── main.py
-│   ├── sample_transactions.csv
-│   └── README.md
-└── README.md
